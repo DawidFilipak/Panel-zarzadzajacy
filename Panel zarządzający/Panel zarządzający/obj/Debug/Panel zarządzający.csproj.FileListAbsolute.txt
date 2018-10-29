@@ -1,0 +1,73 @@
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe.config
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.pdb
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Logowanie.resources
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Properties.Resources.resources
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Rejestracja.resources
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.GenerateResource.Cache
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.exe
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.pdb
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.OknoGlowne.resources
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych.mdf
+C:\Users\Dawid\Desktop\Projekt windows form\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych_log.ldf
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych.mdf
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych_log.ldf
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe.config
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.pdb
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Logowanie.resources
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.OknoGlowne.resources
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Properties.Resources.resources
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Rejestracja.resources
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.exe
+C:\Users\Dawid\Desktop\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.pdb
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych.mdf
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych_log.ldf
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe.config
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.pdb
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csprojAssemblyReference.cache
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Logowanie.resources
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.OknoGlowne.resources
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Properties.Resources.resources
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Rejestracja.resources
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.GenerateResource.cache
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.CoreCompileInputs.cache
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.exe
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.pdb
+D:\STUDIA !!!!!\IV semestr\Szkolenie Tech 1 LGajecki\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.xml
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych.mdf
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych_log.ldf
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe.config
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.xml
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.pdb
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csprojAssemblyReference.cache
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Logowanie.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.OknoGlowne.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Properties.Resources.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Rejestracja.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.GenerateResource.cache
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.CoreCompileInputs.cache
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.exe
+D:\STUDIA !!!!!\IV semestr\Programowanie\Projekt windows form Dawid Filipak (57137)\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.pdb
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych.mdf
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\bin\Debug\Bazydanych\Bazydanych_log.ldf
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe.config
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.xml
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.exe
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\bin\Debug\Panel zarządzający.pdb
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csprojAssemblyReference.cache
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Logowanie.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.OknoGlowne.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Properties.Resources.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel_zarządzający.Rejestracja.resources
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.GenerateResource.cache
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.csproj.CoreCompileInputs.cache
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.exe
+D:\STUDIA !!!!!\IV semestr\Programowanie\Panel-zarzadzajacy\Panel zarządzający\Panel zarządzający\obj\Debug\Panel zarządzający.pdb
